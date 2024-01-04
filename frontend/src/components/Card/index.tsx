@@ -13,7 +13,7 @@ function Card() {
   return (
     <>
       <div className="card">
-        <h2 className="dados-title">Vendas</h2>
+        <h2 className="dados-title">Heróis</h2>
         <div>
           <div className="form-control-container">
             <DatePicker
